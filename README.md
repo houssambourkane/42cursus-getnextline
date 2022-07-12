@@ -1,6 +1,6 @@
 # Get next line
 This project aims to read from a file every single line individually
-### Steps to compile it :
+### Steps to use it :
 #### 1. Clone the repository
 ```
 git clone https://github.com/houssambourkane/42cursus-getnextline.git gnl
