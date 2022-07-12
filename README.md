@@ -18,7 +18,7 @@ gcc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=1
 gcc -Wall -Wextra -Werror main.c get_next_line.o get_next_line_utils.o -D BUFFER_SIZE=1 -o gnl_exec && ./gnl_exec
  ```
 
-### Main example to try with :
+### Main example to try with (you can replace "get_next_line.c" with whatever file you want to read)
 ```
 #include <stdio.h>
 #include <fcntl.h>
